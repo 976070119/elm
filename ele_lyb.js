@@ -1,8 +1,8 @@
 /**
- * 变量：elmck: 必填，账号cookie
  * cron: 7 0,6,12,18,22 * * *
- * 修复连连看
- */
+*/
+
+const $ = new Env('饿了么-欢乐倒水');
 const {
     "getToken": getToken,
     "checkCk": checkCk,

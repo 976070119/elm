@@ -1,3 +1,8 @@
+/**
+ * cron 26 11 * * *
+*/
+
+const $ = new Env('饿了么-饿了个饿');
 const {
   sign,
   getToken,

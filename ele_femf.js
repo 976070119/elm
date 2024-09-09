@@ -1,8 +1,8 @@
 /**
- * 变量：elmck: 必填，账号cookie
- */
+ * cron 21 11 * * *
+*/
 
-const $ = new Env('饿了么福尔魔方');
+const $ = new Env('饿了么-福尔魔方');
 const qs = require("qs");
 const request = require("request");
 

@@ -1,3 +1,8 @@
+/**
+ * cron: 15 10 * * *
+*/
+
+const $ = new Env('饿了么-社群签到');
 const request = require("request"),
       {
   getToken,

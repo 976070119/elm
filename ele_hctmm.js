@@ -1,3 +1,8 @@
+/**
+ * cron 1 10 * * *
+*/
+
+const $ = new Env('饿了么-合成甜蜜蜜');
 const {
   sign,
   getToken,

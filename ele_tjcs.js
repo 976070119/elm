@@ -1,6 +1,6 @@
 /**
- * 变量：elmck: 必填，账号cookie
- */
+ * cron: 5 17 * * *
+*/
 
 const $ = new Env('饿了么特级厨师');
 const qs = require("qs");

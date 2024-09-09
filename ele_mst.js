@@ -1,3 +1,8 @@
+/**
+ * cron: 12 11 * * *
+*/
+
+const $ = new Env('饿了么-美食摊');
 const {
     getToken,
     sign,

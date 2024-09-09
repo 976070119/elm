@@ -82,7 +82,7 @@ push_config = {
 
     'QYWX_AM': '',                      # 企业微信应用
 
-    'QYWX_KEY': '',                     # 企业微信机器人
+    'QYWX_KEY': '1a6945e3-a712-47d6-8f8b-ee142d3b9533',                     # 企业微信机器人
 
     'TG_BOT_TOKEN': '',                 # tg 机器人的 TG_BOT_TOKEN，例：1407203283:AAG9rt-6RDaaX0HBLZQq0laNOh898iFYaRQ
     'TG_USER_ID': '',                   # tg 机器人的 TG_USER_ID，例：1434078534

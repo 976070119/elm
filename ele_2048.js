@@ -1,3 +1,8 @@
+/**
+ * cron: 12 10 * * *
+*/
+
+const $ = new Env('饿了么-2048');
 const {
   getToken,
   sign,

@@ -1,3 +1,8 @@
+/**
+ * cron 22 09 * * *
+*/
+
+const $ = new Env('饿了么-checkck');
 const {
     getEnvsByName,
     DisableCk,

@@ -1,8 +1,9 @@
 /**
- * 变量：elmck: 必填，账号cookie
  * cron 1 0,6,12,18,21 * * *
  * 需要手动玩到四级才能跑
- */
+*/
+
+const $ = new Env('饿了么-魔法小院');
 
 const {
     "getToken": getToken,

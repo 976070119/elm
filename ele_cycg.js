@@ -1,3 +1,8 @@
+/**
+ * cron 18 11 * * *
+*/
+
+// const $ = new Env('饿了么-福尔魔方');
 const {
   sign,
   getToken,

@@ -7,7 +7,7 @@
 
 const https = require('https');
 https.globalAgent.options.rejectUnauthorized = false;
-const $ = new Env('饿了么连连看');
+const $ = new Env('饿了么-连连看');
 const {
     getCookies,
     sign,
